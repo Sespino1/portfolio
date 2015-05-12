@@ -1,0 +1,99 @@
+h1{
+color: #477187;
+margin: 20px;
+}
+html, body{
+margin:0px;
+padding:0px;
+}
+#headerBar{
+height:40px;
+background:#BF7876;
+z-index: 0px;
+}
+#footerBar{
+clear: both;
+background:#D4826A;
+font-style: italic;
+position: relative;
+z-index:10;
+}
+#profile{
+border-style: groove;
+border-width: 5px;
+border-color:#6F90A2;
+border-radius:5%;
+width:11%;
+margin: 20px;
+}
+#intro_quote{
+font-size: 20px;
+font-style:italic;
+margin-top: 20px;
+}
+#it_support{
+border:10px;
+float:left;
+position:relative;
+width:100px;
+background-color:#D4826A;
+border-radius:5%;
+margin-left:20px;
+margin-right: 50px;
+margin-top: 50px;
+border-style:groove;
+
+}
+#languages{
+border:10px;
+float:left;
+position:relative;
+width:100px;
+background-color:#D4826A ;
+border-radius:5%;
+margin-right: 50px;
+margin-top: 50px;
+border-style:groove;
+}
+#leadership{
+border:10px;
+float: left;
+position:relative;
+text-align: left;
+width:100px;
+background-color:#D4826A;
+border-radius:5%;
+margin-right: 50px;
+margin-top: 50px;
+border-style:groove;
+}
+#experience{
+border:10px;
+float: left;
+position:relative;
+text-align: left;
+width:100px;
+background-color:#D4826A;
+border-radius:5%;
+margin-right: 50px;
+margin-top: 50px;
+border-style:groove;
+}
+#external_links{
+background-color: #6F90A2;
+list-style-type: none;
+width: 25%;
+border-style:dotted;
+border-color: white;
+border-radius:5%;
+margin-top: 250px;
+margin-left: 20px;
+}
+.bio{
+background:#D4826A;
+width: 50%;
+border-style:dotted;
+border-color: white;
+border-radius:5%;
+margin-top: 50px;
+}
